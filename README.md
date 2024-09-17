@@ -9,7 +9,7 @@ This repository showcases my skills in data-driven decision-making, combining my
     Zomato Customer Segmentation Analysis:
         Tools: Power BI
         Description: A comprehensive dashboard analyzing customer segmentation via sales, occupation, income, etc.
-        [View Project] (https://drive.google.com/file/d/1E3dyzXlTbwoW3NIyFaktVofpP1L6cpzq/view?usp=sharing)
+        [View Project Here](https://drive.google.com/file/d/1E3dyzXlTbwoW3NIyFaktVofpP1L6cpzq/view?usp=sharing)
 
 📈 Skills & Technologies
 
